@@ -19,6 +19,7 @@ All members listed below maintain equal administrative responsibilities and cont
 | Name | GitHub Profile |
 | :--- | :--- |
 | **Gabriele Ferrero** | [@devgfe](https://github.com/devgfe) |
+| **Luca Ferrone** | [@LucaFerrone3](https://github.com/LucaFerrone3) |
 
 ---
 *Last updated: March 2026*
