@@ -20,7 +20,7 @@ All members listed below maintain equal administrative responsibilities and cont
 | :--- | :--- |
 | **Gabriele Ferrero** | [@devgfe](https://github.com/devgfe) |
 | **Luca Ferrone** | [@LucaFerrone3](https://github.com/LucaFerrone3) |
-| **Matteo Francesco Castigliego| [@MatteoCastigliego](https://github.com/Matteocastigliego) |
+| **Matteo Francesco Castigliego** | [@MatteoCastigliego](https://github.com/Matteocastigliego) |
 
 ---
 *Last updated: March 2026*
