@@ -8,7 +8,7 @@ This organization serves as the central repository for all academic activities r
 
 ### 📂 Contents
 *   **Laboratory Assignments**: Development and implementation of course-specific exercises.
-*   **Final Project**: Design and delivery of the final architectural project.
+*   **[Final Project](https://github.com/PoliTO-SwDA-2026-Team18/project)**: Design and delivery of the final architectural project.
 *   **[Exercises](https://github.com/PoliTO-SwDA-2026-Team18/AY-25-26-exercises)**: Course repository for weekly exercises and software design practices.
 
 ---
