@@ -23,3 +23,4 @@ All members listed below maintain equal administrative responsibilities and cont
 | **Matteo Francesco Castigliego** | [@MatteoCastigliego](https://github.com/Matteocastigliego) |
 | **Michele Castrucci** | [@M1ke324](https://github.com/M1ke324) |
 | **Viorel Strogoteanu** | [@ViorelsS](https://github.com/ViorelsS) |
+| **Federico Angeloni** | [@FedericoAngio](https://github.com/FedericoAngio) |
