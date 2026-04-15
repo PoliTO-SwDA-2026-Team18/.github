@@ -22,5 +22,3 @@ All members listed below maintain equal administrative responsibilities and cont
 | **Luca Ferrone** | [@LucaFerrone3](https://github.com/LucaFerrone3) |
 | **Matteo Francesco Castigliego** | [@MatteoCastigliego](https://github.com/Matteocastigliego) |
 | **Michele Castrucci** | [@M1ke324](https://github.com/M1ke324) |
----
-*Last updated: March 2026*
