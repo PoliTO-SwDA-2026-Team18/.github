@@ -7,7 +7,7 @@ Official workspace for **Team 18** within the **Software Design and Architecture
 This organization serves as the central repository for all academic activities related to the course. It is dedicated to the application of software design principles and architectural patterns.
 
 ### 📂 Contents
-*   **Laboratory Assignments**: Development and implementation of course-specific exercises.
+*   **[Laboratory Assignments](https://github.com/PoliTO-SwDA-2026-Team18/Labs)**: Development and implementation of course-specific exercises.
 *   **[Final Project](https://github.com/PoliTO-SwDA-2026-Team18/project)**: Design and delivery of the final architectural project.
 *   **[Exercises](https://github.com/PoliTO-SwDA-2026-Team18/AY-25-26-exercises)**: Course repository for weekly exercises and software design practices.
 
